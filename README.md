@@ -25,6 +25,7 @@
 
 # Chapter. 1 (Grammar)
 > Intro with https://www.youtube.com/watch?v=MI3S3kdkofo (5 min)  
+>   
 >Activity 1: Fill-in-the-blank quiz using past tense verbs. (Provide simple statments) (5 min)  
 >  
 >Activity 2: Choose the correct answer quiz using past tense "be" verbs. (Provide simple statments with possible answers) (5 min)  
