@@ -8,6 +8,8 @@
 | Comprehend the restoration process of Baekje Gilt-bronze Incense Burner.   |
 | Recognize the importance of cultural heritage restoration.                |
 
+# Timetable
+|
 ## Activities
 | Activity                                                            | Time | Method/Tool |
 |---------------------------------------------------------------------|------|-------------|
