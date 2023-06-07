@@ -1,8 +1,8 @@
 
-# Cultural Heritage and Restoration Science
+# Lesson Plan: Cultural Heritage and Restoration Science
 
-## Learning Objectives
-| Learning Objectives                                                        |
+## Learning Goals
+| Learning Goals                                                      |
 |---------------------------------------------------------------------------|
 | Understand vocabulary related to restoration science and cultural heritage. |
 | Comprehend the restoration process of Baekje Gilt-bronze Incense Burner.   |
