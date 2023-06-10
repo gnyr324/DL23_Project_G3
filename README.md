@@ -10,12 +10,11 @@
 
 # Timetable
 |
-## Activities
-| Activity                                                            | Time |
-|---------------------------------------------------------------------|------|
-| **Introduction**
-
-how | 5 min |
+## Contents
+| Contents                                                                | Time |
+|-------------------------------------------------------------------------|------|
+| **Introduction**                                                        | 5 min |
+| :sparkles:                                                        | 5 min |
 | **Vocabulary Quiz**                                                     | 7 min |
 | **Reading**                                                             | 5 min |
 | **True or False**                                                       | 5 min |
