@@ -11,13 +11,15 @@
 # Timetable
 |
 ## Activities
-| Activity                                                            | Time | Method/Tool |
-|---------------------------------------------------------------------|------|-------------|
-| Introduction                                                        | 5 min | Wordcloud & Youtube Video |
-| Vocabulary Quiz                                                     | 7 min | Images |
-| Reading                                                             | 5 min | Images & TTS |
-| True or False                                                       | 5 min | Dropdown box |
-| Restoration Sequence Quiz                                           | 3 min |              |
-| Group Discussion on the Importance of Cultural Heritage Restoration | 20 min |             |
-| Presentation of Group Discussion Results                            | 5 min |              |
+| Activity                                                            | Time |
+|---------------------------------------------------------------------|------|
+| **Introduction**
+
+how | 5 min |
+| **Vocabulary Quiz**                                                     | 7 min |
+| **Reading**                                                             | 5 min |
+| **True or False**                                                       | 5 min |
+| **Restoration Sequence Quiz**                                           | 3 min |
+| **Group Discussion on the Importance of Cultural Heritage Restoration** | 20 min |
+| **Presentation of Group Discussion Results**                            | 5 min |
 
