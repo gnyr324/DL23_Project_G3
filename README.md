@@ -13,20 +13,20 @@
 | Recognize the importance of cultural heritage restoration.                |
 
 
-## Contents
+## :books: Contents
 | Contents                                                                | Time |
 |-------------------------------------------------------------------------|------|
-| **Introduction**                                                        | 5 min |
-| :sparkles: Preview key words with a Wordcloud image and watch a YouTube video on the topic the students will study today in this class. | |
-| **Vocabulary Quiz**                                                     | 7 min |
-| :sparkles: With the given image, enter the corresponding word to guess. | |
-| **Reading**                                                             | 5 min |
-| :sparkles: With TTS, read and listen to the paragraph about cultural heritage. | |
-| **True or False**                                                       | 5 min |
-| :sparkles: After reading the paragraphs, answer the given question as True or False. | |
-| **Restoration Sequence Quiz**                                           | 3 min |
-| :sparkles: Arranging the given sentences in the correct order of artifact restoration, as mentioned in the preceding paragraph. | |
-| **Group Discussion on the Importance of Cultural Heritage Restoration** | 20 min |
-| :sparkles: As a conclusion to the learning session, students will take some time to reflect on and share their thoughts about the content they learned. | |
-| **Presentation of Group Discussion Results**                            | 5 min |
-| :sparkles: XXXXX | |
+| :sparkles: **Introduction**                                                        | 5 min |
+| Preview key words with a Wordcloud image and watch a YouTube video on the topic the students will study today in this class. | |
+| :sparkles: **Vocabulary Quiz**                                                     | 7 min |
+| With the given image, enter the corresponding word to guess. | |
+| :sparkles: **Reading**                                                             | 5 min |
+| With TTS, read and listen to the paragraph about cultural heritage. | |
+| :sparkles: **True or False**                                                       | 5 min |
+| After reading the paragraphs, answer the given question as True or False. | |
+| :sparkles: **Restoration Sequence Quiz**                                           | 3 min |
+| Arranging the given sentences in the correct order of artifact restoration, as mentioned in the preceding paragraph. | |
+| :sparkles: **Group Discussion on the Importance of Cultural Heritage Restoration** | 20 min |
+| As a conclusion to the learning session, students will take some time to reflect on and share their thoughts about the content they learned. | |
+| :sparkles: **Presentation of Group Discussion Results**                            | 5 min |
+| XXXXX | |
