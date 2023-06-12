@@ -8,25 +8,25 @@
 ## :golf: Learning Goals
 | Learning Goals                                                      |
 |---------------------------------------------------------------------------|
-| Understand vocabulary related to restoration science and cultural heritage. |
-| Comprehend the restoration process of Baekje Gilt-bronze Incense Burner.   |
-| Recognize the importance of cultural heritage restoration.                |
+| 1. Understand vocabulary related to restoration science and cultural heritage. |
+| 2. Comprehend the restoration process of Baekje Gilt-bronze Incense Burner.   |
+| 3. Recognize the importance of cultural heritage restoration.                |
 
 
 ## :books: Contents
 | Contents                                                                | Time |
 |-------------------------------------------------------------------------|------|
 | :sparkles: **Introduction**                                                        | 5 min |
-| Preview key words with a Wordcloud image and watch a YouTube video on the topic the students will study today in this class. | |
+| Previewing key words with a Wordcloud image and watching a YouTube video on the topic that will be studied in this class.| |
 | :sparkles: **Vocabulary Quiz**                                                     | 7 min |
-| With the given image, enter the corresponding word to guess. | |
+| Guessing the corresponding word by the given image. | |
 | :sparkles: **Reading**                                                             | 5 min |
 | With TTS, read and listen to the paragraph about cultural heritage. | |
 | :sparkles: **True or False**                                                       | 5 min |
-| After reading the paragraphs, answer the given question as True or False. | |
+| Reading and listening to the paragraph about cultural heritage with TTS. | |
 | :sparkles: **Restoration Sequence Quiz**                                           | 3 min |
 | Arranging the given sentences in the correct order of artifact restoration, as mentioned in the preceding paragraph. | |
 | :sparkles: **Group Discussion on the Importance of Cultural Heritage Restoration** | 20 min |
-| As a conclusion to the learning session, students will take some time to reflect on and share their thoughts about the content they learned. | |
+| Wrapping up the learning session, students will take some time to reflect on and share their thoughts about the content they have learned. | |
 | :sparkles: **Presentation of Group Discussion Results**                            | 5 min |
 | XXXXX | |
