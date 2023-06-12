@@ -31,4 +31,4 @@
 | :sparkles: **Group Discussion on the Importance of Cultural Heritage Restoration** | 20 min |
 | Wrapping up the learning session, students will take some time to reflect on and share their thoughts about the content they have learned. | |
 | :sparkles: **Presentation of Group Discussion Results**                            | 5 min |
-| XXXXX | |
+| (Google forms or Google docs?) | |
