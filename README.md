@@ -11,7 +11,7 @@
 | Learning Goals                                                      |
 |---------------------------------------------------------------------------|
 | 1. Understand vocabulary related to restoration science and cultural heritage. |
-| 2. Comprehend the restoration process of Baekje Gilt-bronze Incense Burner.   |
+| 2. Comprehend the restoration process of cultural heritage.   |
 | 3. Recognize the importance of cultural heritage restoration.                |
 
 
