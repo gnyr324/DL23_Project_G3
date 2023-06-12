@@ -16,7 +16,7 @@
 
 
 ## :books: Contents
-| Contents                                                                | Time |
+| Contents                                                                |  Time  |
 |-------------------------------------------------------------------------|------|
 | :sparkles: **Introduction**                                                        | 5 min |
 | Previewing key words with a Wordcloud image and watching a YouTube video on the topic that will be studied in this class.| |
