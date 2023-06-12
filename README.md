@@ -2,7 +2,7 @@
 # :clipboard: Lesson Plan for 2nd graders in high school : Cultural Heritage and Restoration Science
 
 ## :star: Link to the lesson material page :D
-[Lesson material in colab](https://colab.research.google.com/github/gnyr324/DL23_Project_G3/blob/main/P_N.ipynb :)")
+[Lesson material in colab]("https://colab.research.google.com/github/gnyr324/DL23_Project_G3/blob/main/P_N.ipynb :)")
 
 
 ## :golf: Learning Goals
