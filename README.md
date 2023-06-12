@@ -1,5 +1,5 @@
 
-# Lesson Plan: Cultural Heritage and Restoration Science
+# Lesson Plan for 2nd graders in high school : Cultural Heritage and Restoration Science
 
 ## Learning Goals
 | Learning Goals                                                      |
@@ -8,14 +8,14 @@
 | Comprehend the restoration process of Baekje Gilt-bronze Incense Burner.   |
 | Recognize the importance of cultural heritage restoration.                |
 
-# Timetable
-|
+
 ## Contents
 | Contents                                                                | Time |
 |-------------------------------------------------------------------------|------|
 | **Introduction**                                                        | 5 min |
-| :sparkles:                                                        | 5 min |
+| :sparkles: Preview key words with a Wordcloud image and watch a YouTube video on the topic the students will study today in this class. |-----|
 | **Vocabulary Quiz**                                                     | 7 min |
+| :sparkles: |-----|
 | **Reading**                                                             | 5 min |
 | **True or False**                                                       | 5 min |
 | **Restoration Sequence Quiz**                                           | 3 min |
