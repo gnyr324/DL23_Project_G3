@@ -1,6 +1,10 @@
 
 # Lesson Plan for 2nd graders in high school : Cultural Heritage and Restoration Science
 
+## Link to the lesson material page
+[Lesson material](https://colab.research.google.com/github/gnyr324/DL23_Project_G3/blob/main/P_N.ipynb#scrollTo=1KhCLaCCTNlM "Lesson material")
+
+
 ## Learning Goals
 | Learning Goals                                                      |
 |---------------------------------------------------------------------------|
