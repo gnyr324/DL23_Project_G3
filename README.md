@@ -29,6 +29,6 @@
 | :sparkles: **Restoration Sequence Quiz**                                           | 3 min |
 | Arranging the given sentences in the correct order of artifact restoration, as mentioned in the preceding paragraph. | |
 | :sparkles: **Group Discussion on the Importance of Cultural Heritage Restoration** | 20 min |
-| Wrapping up the learning session, students will take some time to reflect on and share their thoughts about the content they have learned. | |
+| Wrapping up the learning session, students will take some time to reflect on and share their thoughts about the content they have learned. (With Google Slides) | |
 | :sparkles: **Presentation of Group Discussion Results**                            | 5 min |
-| (Google forms or Google docs?) | |
+|   | |
