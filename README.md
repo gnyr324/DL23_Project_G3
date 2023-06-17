@@ -3,10 +3,11 @@
 
 ## Cultural Heritage and Restoration Science
 
-## :star: Link to the lesson material page :D
+## :star: Link to the lesson material page
 [Lesson material in colab](https://colab.research.google.com/github/gnyr324/DL23_Project_G3/blob/main/P_N.ipynb )
 
-
+## :star: QRcode to the lesson material page
+![QR](https://github.com/gnyr324/DL23_Project_G3/assets/127828101/70cd9302-4cb9-4fd5-88a4-2b89ca3ab1ba)
 ## :golf: Learning Goals
 | Learning Goals                                                      |
 |---------------------------------------------------------------------------|
