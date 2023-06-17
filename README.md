@@ -8,6 +8,9 @@
 
 ## :star: QRcode to the lesson material page
 ![QR](https://github.com/gnyr324/DL23_Project_G3/assets/127828101/70cd9302-4cb9-4fd5-88a4-2b89ca3ab1ba)
+
+## :star: How?
+[How to use](https://youtu.be/GQczIv_cJdA)
 ## :golf: Learning Goals
 | Learning Goals                                                      |
 |---------------------------------------------------------------------------|
